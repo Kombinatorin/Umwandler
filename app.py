@@ -7,7 +7,7 @@ import os
 from datetime import datetime
 
 # OpenAI API einrichten
-openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = os.getenv("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")
 
 # Farben aus Guidelines
 COLORS = {
